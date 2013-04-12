@@ -1,12 +1,12 @@
-Magento DE - German Store Configuration for Magento CE
+Magento CH - Swiss Store Configuration for Magento CE
 =====================
-A preconfigured Magento CE installation for German Merchants
+A preconfigured Magento CE installation for Swiss Merchants
 
 Facts
 -----
 - version: 1.1.0
-- [On GitHub](https://github.com/integer-net/GermanStoreConfig)
-- [direct download link](https://github.com/integer-net/GermanStoreConfig/archive/master.zip)
+- [On GitHub](https://github.com/integer-net/Magento-CH)
+- [direct download link](https://github.com/integer-net/Magento-CH/archive/master.zip)
 
 Description
 -----------
@@ -15,20 +15,23 @@ It provides a slightly modified installation process, a form to enter all releva
 is displayed on first admin user login. On completion of the form, caches are disabled and indices are refreshed.
 
 A few useful and preconfigured modules are shipped with the distribution:
-- German Language Pack
-- FireGento_GermanSetup (for base settings and adjustments for the German market; will be called on form submit)
+- Swiss German Language Pack
+- French German Language Pack
+- Italian German Language Pack
+- Possibility to create english, french and italian store views via checkbox
+- FireGento_GermanSetup (for base settings and adjustments for the Swiss market; will be called on form submit)
 - FireGento_Pdf (to create better PDF invoices)
 - DerModPro_BasePrice (for displaying the price per base unit, required in many cases according to German Laws)
 - PRWD_Autoshipping (for displaying shipping costs in cart even when no shipping address is entered yet, see [this German blog entry](http://www.avs-webentwicklung.de/nc/blog/artikel/versandkosten-im-warenkorb-anzeigen.html))
 - Phoenix_CashOnDelivery (Payment Method)
-- Mage_Debit (Payment Method)
+- Mage_Debit (Payment Method) (deactivated by default)
 - IntegerNet_RemoveCustomerAccountLinks (for hiding unneeded links in customer account, see [this German blog entry](http://www.integer-net.de/benutzerkonto-magento-deaktivieren-von-menupunkten/))
 - AvS_AdminNotificationAdvanced (for better handling of notifications, see [this German blog entry](http://www.avs-webentwicklung.de/nc/blog/artikel/magento-verbesserte-benachrichtigungen-im-admin-bereich.html))
 - AvS_ScopeHint (to show conflicts in configuration, products and categories, see [this German blog entry](http://www.avs-webentwicklung.de/nc/blog/artikel/warnung-bei-ueberschriebenen-konfigurations-optionen-kostenloses-magento-modul.html))
 - Treynolds_Qconfig (to provide a quick search for the system configuration)
 - Ikonoshirt_CustomAdminNotifications (to allow integration of additional news feeds)
 
-On top, some core modules are disabled which are not needed for typical German Shops:
+On top, some core modules are disabled which are not needed for typical Swiss Shops:
 - Mage_Usa
 - Mage_PaypalUk
 - Mage_GoogleCheckout
