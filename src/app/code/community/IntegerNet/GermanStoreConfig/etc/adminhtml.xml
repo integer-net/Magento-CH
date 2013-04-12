@@ -127,6 +127,17 @@
                                         </setup>
                                     </children>
                                 </removecustomeraccountlinks>
+                                <rappenrounding translate="title" module="germanstoreconfig">
+                                    <title>Rappen Rounding</title>
+                                    <sort_order>100</sort_order>
+                                    <children>
+                                        <setup translate="title">
+                                            <title>Extension Setup</title>
+                                            <sort_order>10</sort_order>
+                                            <action>adminhtml/germanstoreconfig_rappenrounding</action>
+                                        </setup>
+                                    </children>
+                                </rappenrounding>
                             </children>
                         </modules>
                         <configuration translate="title">
@@ -262,6 +273,17 @@
                                 </setup>
                             </children>
                         </removecustomeraccountlinks>
+                        <rappenrounding translate="title" module="germanstoreconfig">
+                            <title>Rappen Rounding</title>
+                            <sort_order>100</sort_order>
+                            <children>
+                                <setup translate="title">
+                                    <title>Extension Setup</title>
+                                    <sort_order>10</sort_order>
+                                    <action>adminhtml/germanstoreconfig_rappenrounding</action>
+                                </setup>
+                            </children>
+                        </rappenrounding>
                     </children>
                 </modules>
                 <configuration translate="title">
