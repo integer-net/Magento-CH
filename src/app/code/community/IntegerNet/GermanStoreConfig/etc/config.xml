@@ -178,16 +178,16 @@
     <default>
         <general>
             <country>
-                <allow>DE</allow>
+                <allow>CH,LI</allow>
             </country>
             <locale>
-                <code>de_DE</code>
+                <code>de_CH</code>
             </locale>
             <store_information>
-                <merchant_country>DE</merchant_country>
+                <merchant_country>CH</merchant_country>
             </store_information>
             <imprint>
-                <country>DE</country>
+                <country>CH</country>
                 <display_copyright>1</display_copyright>
             </imprint>
         </general>
@@ -242,7 +242,7 @@
         <autoshipping>
             <settings>
                 <enabled>1</enabled>
-                <country_id>DE</country_id>
+                <country_id>CH</country_id>
             </settings>
         </autoshipping>
         <carriers>
@@ -275,7 +275,7 @@
                 <sort_order>20</sort_order>
             </banktransfer>
             <debit>
-                <active>1</active>
+                <active>0</active>
                 <title>Lastschrift</title>
                 <sort_order>30</sort_order>
                 <order_status>pending</order_status>
@@ -288,9 +288,9 @@
                 <sort_order>40</sort_order>
                 <order_status>pending</order_status>
                 <shippingallowspecific>1</shippingallowspecific>
-                <shippingspecificcountry>DE</shippingspecificcountry>
+                <shippingspecificcountry>CH</shippingspecificcountry>
                 <inlandcosts>2</inlandcosts>
-                <customtext>Bei Zahlung per Nachnahme erhebt der Zusteller zusätzlich 2,00 €
+                <customtext>Bei Zahlung per Nachnahme erhebt der Zusteller zusätzlich 2,00 CHF
                     Übermittlungsentgelt vor Ort.</customtext>
             </cashondelivery>
         </payment>
@@ -336,12 +336,13 @@
             </default_language>
             <available_languages>
                 <en_US>English</en_US>
-                <!--<fr_FR>Français</fr_FR>-->
-                <!--<it_IT>Italiano</it_IT>-->
+                <fr_FR>Français</fr_FR>
+                <it_IT>Italiano</it_IT>
             </available_languages>
-            <currency>EUR</currency>
+            <country>CH</country>
+            <currency>CHF</currency>
             <timezone>Europe/Berlin</timezone>
-            <module_title>Magento DE</module_title>
+            <module_title>Magento CH</module_title>
         </germanstoreconfig>
         <ikonoshirt>
             <custom_rss_feeds>
