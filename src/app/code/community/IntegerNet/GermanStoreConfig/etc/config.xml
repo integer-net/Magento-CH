@@ -322,13 +322,13 @@
         <germanstoreconfig>
             <appfactory_url_de>http://de.nr-apps.com</appfactory_url_de>
             <appfactory_url_en>http://www.nr-apps.com</appfactory_url_en>
-            <magentode_url_de>http://de.nr-apps.com/store/magento-de.html</magentode_url_de>
-            <magentode_url_en>http://www.nr-apps.com/store/magento-de.html</magentode_url_en>
+            <magentode_url_de>http://de.nr-apps.com/store/magento-ch.html</magentode_url_de>
+            <magentode_url_en>http://www.nr-apps.com/store/magento-ch.html</magentode_url_en>
             <integernet_url_de>http://www.integer-net.de</integernet_url_de>
             <integernet_url_en>http://www.integer-net.de</integernet_url_en>
             <tracking_url>http://www.nr-apps.com/store/germanstoreconfig/tracking</tracking_url>
             <newsfeed_url>http://www.nr-apps.com/store/media/germanstoreconfig/feed.xml</newsfeed_url>
-            <iframe_url_prefix>https://www.nr-apps.com/n/magento-de/</iframe_url_prefix>
+            <iframe_url_prefix>https://www.nr-apps.com/n/magento-ch/</iframe_url_prefix>
             <iframe_url_suffix>.html</iframe_url_suffix>
             <default_language>
                 <code>de</code>
@@ -343,6 +343,7 @@
             <currency>CHF</currency>
             <timezone>Europe/Berlin</timezone>
             <module_title>Magento CH</module_title>
+            <module_code>magento_ch</module_code>
         </germanstoreconfig>
         <ikonoshirt>
             <custom_rss_feeds>
