@@ -343,6 +343,7 @@
             <currency>CHF</currency>
             <timezone>Europe/Berlin</timezone>
             <module_title>Magento CH</module_title>
+            <module_code>magento_ch</module_code>
         </germanstoreconfig>
         <ikonoshirt>
             <custom_rss_feeds>
