@@ -4,7 +4,7 @@ A preconfigured Magento CE installation for Swiss Merchants
 
 Facts
 -----
-- version: 1.1.0
+- version: 1.2.0
 - [On GitHub](https://github.com/integer-net/Magento-CH)
 - [direct download link](https://github.com/integer-net/Magento-CH/archive/master.zip)
 
