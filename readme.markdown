@@ -16,8 +16,8 @@ is displayed on first admin user login. On completion of the form, caches are di
 
 A few useful and preconfigured modules are shipped with the distribution:
 - Swiss German Language Pack
-- French German Language Pack
-- Italian German Language Pack
+- French Language Pack
+- Italian Language Pack
 - Possibility to create english, french and italian store views via checkbox
 - FireGento_GermanSetup (for base settings and adjustments for the Swiss market; will be called on form submit)
 - FireGento_Pdf (to create better PDF invoices)
