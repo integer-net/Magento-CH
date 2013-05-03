@@ -1,6 +1,6 @@
-Magento DE - German Store Configuration for Magento CE
+Magento CH - Swiss Store Configuration for Magento CE
 =====================
-A preconfigured Magento CE installation for German Merchants
+A preconfigured Magento CE installation for Swiss Merchants
 
 Facts
 -----
