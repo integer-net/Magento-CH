@@ -10,12 +10,18 @@
         }
     ],
     "require": {
-
+        "php": ">=5.2.13"
     },
     "autoload": {
         "psr-0": {
-            "": ["app/code", "lib"]
+            "": [
+                "src/app",
+                "src/app/code/local",
+                "src/app/code/community",
+                "src/app/code/core",
+                "src/lib"
+            ]
         }
     },
-    "target-dir": "./"
+    "minimum-stability": "dev"
 }
