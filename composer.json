@@ -14,14 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "": [
-                "src/app",
-                "src/app/code/local",
-                "src/app/code/community",
-                "src/app/code/core",
-                "src/lib"
-            ]
+            "": ["app/code", "lib"]
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
