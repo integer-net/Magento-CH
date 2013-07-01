@@ -17,5 +17,5 @@
             "": ["app/code", "lib"]
         }
     },
-    "target-dir": "src/"
+    "target-dir": "./"
 }
