@@ -1,0 +1,20 @@
+{
+    "name":"integer-net/magento-ch",
+    "description":"Magento CH - Swiss Store Configuration for Magento CE.",
+    "homepage":"https://github.com/integer-net/Magento-CH.git",
+    "license": ["OSL-3.0", "AFL-3.0"],
+    "minimum-stability": "dev",
+    "authors":[
+        {
+            "name":"Integer Net GmbH"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.13"
+    },
+    "autoload": {
+        "psr-0": {
+            "": ["app/code", "lib"]
+        }
+    }
+}
